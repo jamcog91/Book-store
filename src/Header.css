@@ -1,0 +1,21 @@
+.header {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.header__option {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.header__nav {
+    display: flex;
+    justify-content: margin-right;
+    /* justify-content: space-evenly; */
+}
