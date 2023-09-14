@@ -1,6 +1,6 @@
 import 'BookClubs.css';
 
-function BookClubs(options) {
+function BookClubs() {
     return(
         <div>
 

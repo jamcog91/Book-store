@@ -7,7 +7,7 @@ function NavBar() {
             <div>Trade</div>
             <div>Shop</div>
             <div>Book Clubs</div>
-            <div>Followers</div>
+            <div>Friends</div>
         </div>
     )
 }
