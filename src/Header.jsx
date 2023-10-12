@@ -3,10 +3,14 @@ import './Header.css';
 function Header() {
     return(
         <div className='header'>
-            <h1>Page Trader</h1>
+            <h1 className='header__logo'>Page Trader</h1>
             <div className='header__nav'>
-                <div className='header__option'>Sign Up</div>
-                <div className='header__option'>Log In</div>
+                <div className='header__option'>
+                    <span>Sign Up</span>
+                </div>
+                <div className='header__option'>
+                    <span>Log In</span>
+                </div>
             </div>
         </div>
     );

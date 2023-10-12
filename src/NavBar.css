@@ -1,0 +1,17 @@
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #111;
+    height: 35px;
+}
+
+.nav__option {
+    color: white;
+    font-size: 18px;
+    margin-top: 4px;
+}
+
+.nav__option:hover {
+    cursor: pointer;
+    background-color: green;
+}
