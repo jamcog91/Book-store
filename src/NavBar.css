@@ -1,5 +1,6 @@
 .navbar {
     display: flex;
+    align-items: center;
     justify-content: space-evenly;
     background-color: #111;
     height: 35px;
@@ -9,6 +10,8 @@
     color: white;
     font-size: 18px;
     margin-top: 4px;
+    margin-bottom: 4px;
+    
 }
 
 .nav__option:hover {
